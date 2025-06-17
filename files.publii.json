@@ -1,0 +1,397 @@
+[
+    {
+        "path": "10-simple-daily-habits-to-reduce-your-environmental-footprint-and-protect-the-planet.html",
+        "type": "file",
+        "md5": "832c1333bd2c32fc2a248c216b78fe81"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "7c1133b2376ab6c0bcb986bd8529f6bb"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "356528c6964311bb4317fbb04462fde6"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "ff5114e57cdc494930a0fc2b3c04fa02"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "7815e1f605781f6892b999fe6ca17746"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "f91a5187ee2a626a1367d0af210c6f6a"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "e2bc0e7d7ff60ea78ee920470cf8c8a1"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "82a146f3c6377c10fc0728d8e93d3b00"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cee3f4dfa013d82f323b7667b23c71d3"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/tws17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/tws17/index.html",
+        "type": "file",
+        "md5": "7c7cec06999fba6c2093437af18bfb7a"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "a581651ee93a32246dbaa453fdaf5147"
+    },
+    {
+        "path": "discover-eco-friendly-innovations-transforming-everyday-living-for-a-sustainable-future.html",
+        "type": "file",
+        "md5": "60f7f0430f609fd1cf806ec50690e1f6"
+    },
+    {
+        "path": "embrace-minimalism-and-sustainability-your-perfect-lifestyle-match-for-a-better-tomorrow.html",
+        "type": "file",
+        "md5": "8c67f770458e826482dedd2fc18f1e89"
+    },
+    {
+        "path": "essential-sustainable-materials-every-eco-conscious-designer-should-know-about.html",
+        "type": "file",
+        "md5": "946c8eb43d8334cd8c72d73c8ba28b0a"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8a97723938753cda7bf873ba38c456fa"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "3abb94b2dd2221cd5b5b663e8133ed09"
+    },
+    {
+        "path": "how-to-create-a-sustainable-home-without-sacrificing-style-practical-tips-for-eco-friendly-living.html",
+        "type": "file",
+        "md5": "9100f431e23063116f151f895170d48e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "771a5f5461710b9a127cec6221feb364"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "78c64b51858dc4e0f69ae50f7989f052"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "457cbfb7b04c5a84be721e8681635dd3"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "bb7e97b932a5104459321eb8af93e6fd"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "dd1af0562855a208ef2641ebf165cc76"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "3d6b1e561ff86607684992e286bcb5e9"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "5d749efecfe104fb2b7d692882ed2396"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "8cfa6aa4f2fe03f50531826ecec8d350"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Live-Green-2.jpg",
+        "type": "file",
+        "md5": "bb2ab95a9fd8b32c3096c55901df4440"
+    },
+    {
+        "path": "/media/website/Live-Green.jpg",
+        "type": "file",
+        "md5": "bb2ab95a9fd8b32c3096c55901df4440"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "78c64b51858dc4e0f69ae50f7989f052"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/profile.png",
+        "type": "file",
+        "md5": "cea623869dd1b6cdfb3d24d5f54c152f"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-2xl.jpg",
+        "type": "file",
+        "md5": "0d6ecbcc597b7303fa6717ebc0e9ac8a"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-lg.jpg",
+        "type": "file",
+        "md5": "7d8f467280e4c92250d2e8f49acd3242"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-md.jpg",
+        "type": "file",
+        "md5": "009c87d0f29fe944102e32c59899c3c5"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-sm.jpg",
+        "type": "file",
+        "md5": "1a372cccb352c16997c17f581090fcad"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-xl.jpg",
+        "type": "file",
+        "md5": "634295628b89cfe49f2522fe45021c03"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2-xs.jpg",
+        "type": "file",
+        "md5": "18cb5329e3f72ba97705fb5f50b5453a"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-2xl.jpg",
+        "type": "file",
+        "md5": "0d6ecbcc597b7303fa6717ebc0e9ac8a"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-lg.jpg",
+        "type": "file",
+        "md5": "7d8f467280e4c92250d2e8f49acd3242"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-md.jpg",
+        "type": "file",
+        "md5": "009c87d0f29fe944102e32c59899c3c5"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-sm.jpg",
+        "type": "file",
+        "md5": "1a372cccb352c16997c17f581090fcad"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-xl.jpg",
+        "type": "file",
+        "md5": "634295628b89cfe49f2522fe45021c03"
+    },
+    {
+        "path": "/media/website/responsive/Live-Green-xs.jpg",
+        "type": "file",
+        "md5": "18cb5329e3f72ba97705fb5f50b5453a"
+    },
+    {
+        "path": "/media/website/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "457cbfb7b04c5a84be721e8681635dd3"
+    },
+    {
+        "path": "/media/website/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "bb7e97b932a5104459321eb8af93e6fd"
+    },
+    {
+        "path": "/media/website/responsive/cover-md.png",
+        "type": "file",
+        "md5": "dd1af0562855a208ef2641ebf165cc76"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "3d6b1e561ff86607684992e286bcb5e9"
+    },
+    {
+        "path": "/media/website/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "5d749efecfe104fb2b7d692882ed2396"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "8cfa6aa4f2fe03f50531826ecec8d350"
+    },
+    {
+        "path": "/media/website/responsive/profile-2xl.png",
+        "type": "file",
+        "md5": "0ca612ac2522c749d5ce31a5745333b3"
+    },
+    {
+        "path": "/media/website/responsive/profile-lg.png",
+        "type": "file",
+        "md5": "0ca612ac2522c749d5ce31a5745333b3"
+    },
+    {
+        "path": "/media/website/responsive/profile-md.png",
+        "type": "file",
+        "md5": "a37fdab560095c34b2bb886621e33a03"
+    },
+    {
+        "path": "/media/website/responsive/profile-sm.png",
+        "type": "file",
+        "md5": "22381269c7f4dc4a6dcb2f2e93c0af42"
+    },
+    {
+        "path": "/media/website/responsive/profile-xl.png",
+        "type": "file",
+        "md5": "0ca612ac2522c749d5ce31a5745333b3"
+    },
+    {
+        "path": "/media/website/responsive/profile-xs.png",
+        "type": "file",
+        "md5": "679df94933b01ef350c650992a6beb89"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "23219c2904a5977548afd7fb661e1471"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ae02d818fdea2fe324dd87940b8ff93c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "smart-tech-meets-eco-living-discover-the-future-of-green-homes-today.html",
+        "type": "file",
+        "md5": "cef1794524b5320b9a5ed8c0a209585f"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "5c2719c81d07e4c4cc8eb58df38ee88e"
+    },
+    {
+        "path": "the-art-of-eco-elegance-merging-style-functionality-and-environmental-awareness.html",
+        "type": "file",
+        "md5": "4144ed2188b132765980d66f486756bd"
+    },
+    {
+        "path": "the-rise-of-green-technology-in-modern-design-shaping-a-sustainable-future.html",
+        "type": "file",
+        "md5": "9d2e06567c992c7791358b613b008ec8"
+    },
+    {
+        "path": "upcycling-and-reuse-transform-old-items-with-style-for-a-sustainable-home.html",
+        "type": "file",
+        "md5": "8798687b75b7c6063c83ebc5eae97e5e"
+    },
+    {
+        "path": "why-sustainability-is-the-new-standard-in-innovation-and-design-a-shift-toward-eco-friendly-solutions.html",
+        "type": "file",
+        "md5": "c4c890d264b129f1bafac7ee2933a86c"
+    }
+]
